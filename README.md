@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Alhusain Abdalla
+# 👋 Hi, I'm Alhusain!
 
-I'm a Machine Learning Researcher at The Hospital for Sick Children (SickKids) in Toronto, specializing in developing AI models for pediatric stroke recovery. With a background in biomedical and electrical engineering, I focus on integrating neuroimaging, clinical, and genetic data to create predictive models.
+I'm a Machine Learning Researcher at The Hospital for Sick Children (SickKids) in Toronto, specializing in developing AI models for pediatric stroke recovery.
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/alhusains)
 [![GitHub URL](https://img.shields.io/static/v1?color=black&label=GitHub&logo=github&logoColor=white&style=for-the-badge&message=Follow)](https://github.com/alhusains)
+[![Google Scholar URL](https://img.shields.io/static/v1?color=green&label=Google%20Scholar&logo=google-scholar&logoColor=white&style=for-the-badge&message=View)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=Rj-4WnwAAAAJ)
 
 ---
 
